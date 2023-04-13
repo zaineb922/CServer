@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/Project.dir/server.c.o -o Project   -L/usr/lib/llhttp-main/build  -Wl,-rpath,/usr/lib/llhttp-main/build -lllhttp 

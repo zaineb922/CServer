@@ -1,0 +1,3 @@
+/home/zaineb/Project/CMakeFiles/Project.dir
+/home/zaineb/Project/CMakeFiles/edit_cache.dir
+/home/zaineb/Project/CMakeFiles/rebuild_cache.dir
